@@ -1,0 +1,15 @@
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\bin\Debug\net6.0\Exercicios06Mod2.exe
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\bin\Debug\net6.0\Exercicios06Mod2.deps.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\bin\Debug\net6.0\Exercicios06Mod2.runtimeconfig.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\bin\Debug\net6.0\Exercicios06Mod2.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\bin\Debug\net6.0\Exercicios06Mod2.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\obj\Debug\net6.0\Exercicios06Mod2.csproj.AssemblyReference.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\obj\Debug\net6.0\Exercicios06Mod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\obj\Debug\net6.0\Exercicios06Mod2.AssemblyInfoInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\obj\Debug\net6.0\Exercicios06Mod2.AssemblyInfo.cs
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\obj\Debug\net6.0\Exercicios06Mod2.csproj.CoreCompileInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\obj\Debug\net6.0\Exercicios06Mod2.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\obj\Debug\net6.0\refint\Exercicios06Mod2.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\obj\Debug\net6.0\Exercicios06Mod2.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\obj\Debug\net6.0\Exercicios06Mod2.genruntimeconfig.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicios06Mod2\obj\Debug\net6.0\ref\Exercicios06Mod2.dll

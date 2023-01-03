@@ -1,0 +1,15 @@
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\bin\Debug\net6.0\Exercicio2Salario.exe
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\bin\Debug\net6.0\Exercicio2Salario.deps.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\bin\Debug\net6.0\Exercicio2Salario.runtimeconfig.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\bin\Debug\net6.0\Exercicio2Salario.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\bin\Debug\net6.0\Exercicio2Salario.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\obj\Debug\net6.0\Exercicio2Salario.csproj.AssemblyReference.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\obj\Debug\net6.0\Exercicio2Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\obj\Debug\net6.0\Exercicio2Salario.AssemblyInfoInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\obj\Debug\net6.0\Exercicio2Salario.AssemblyInfo.cs
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\obj\Debug\net6.0\Exercicio2Salario.csproj.CoreCompileInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\obj\Debug\net6.0\Exercicio2Salario.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\obj\Debug\net6.0\refint\Exercicio2Salario.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\obj\Debug\net6.0\Exercicio2Salario.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\obj\Debug\net6.0\Exercicio2Salario.genruntimeconfig.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio2Salario\obj\Debug\net6.0\ref\Exercicio2Salario.dll

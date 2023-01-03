@@ -1,0 +1,15 @@
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\bin\Debug\net6.0\Exemplo4mod4Estoque.exe
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\bin\Debug\net6.0\Exemplo4mod4Estoque.deps.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\bin\Debug\net6.0\Exemplo4mod4Estoque.runtimeconfig.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\bin\Debug\net6.0\Exemplo4mod4Estoque.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\bin\Debug\net6.0\Exemplo4mod4Estoque.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\obj\Debug\net6.0\Exemplo4mod4Estoque.csproj.AssemblyReference.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\obj\Debug\net6.0\Exemplo4mod4Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\obj\Debug\net6.0\Exemplo4mod4Estoque.AssemblyInfoInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\obj\Debug\net6.0\Exemplo4mod4Estoque.AssemblyInfo.cs
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\obj\Debug\net6.0\Exemplo4mod4Estoque.csproj.CoreCompileInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\obj\Debug\net6.0\Exemplo4mod4Estoque.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\obj\Debug\net6.0\refint\Exemplo4mod4Estoque.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\obj\Debug\net6.0\Exemplo4mod4Estoque.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\obj\Debug\net6.0\Exemplo4mod4Estoque.genruntimeconfig.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo4mod4Estoque\obj\Debug\net6.0\ref\Exemplo4mod4Estoque.dll

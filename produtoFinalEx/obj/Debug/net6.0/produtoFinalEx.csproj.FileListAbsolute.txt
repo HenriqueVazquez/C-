@@ -1,0 +1,15 @@
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\obj\Debug\net6.0\produtoFinalEx.csproj.AssemblyReference.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\obj\Debug\net6.0\produtoFinalEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\obj\Debug\net6.0\produtoFinalEx.AssemblyInfoInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\obj\Debug\net6.0\produtoFinalEx.AssemblyInfo.cs
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\obj\Debug\net6.0\produtoFinalEx.csproj.CoreCompileInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\bin\Debug\net6.0\produtoFinalEx.exe
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\bin\Debug\net6.0\produtoFinalEx.deps.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\bin\Debug\net6.0\produtoFinalEx.runtimeconfig.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\bin\Debug\net6.0\produtoFinalEx.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\bin\Debug\net6.0\produtoFinalEx.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\obj\Debug\net6.0\produtoFinalEx.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\obj\Debug\net6.0\refint\produtoFinalEx.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\obj\Debug\net6.0\produtoFinalEx.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\obj\Debug\net6.0\produtoFinalEx.genruntimeconfig.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\produtoFinalEx\obj\Debug\net6.0\ref\produtoFinalEx.dll

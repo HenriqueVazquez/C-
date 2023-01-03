@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1MembrosestaticosConversorDeMoeda", "Exercicio1MembrosestaticosConversorDeMoeda.csproj", "{76441CF1-BDAE-4503-A1E8-E43E2860A258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76441CF1-BDAE-4503-A1E8-E43E2860A258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76441CF1-BDAE-4503-A1E8-E43E2860A258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76441CF1-BDAE-4503-A1E8-E43E2860A258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76441CF1-BDAE-4503-A1E8-E43E2860A258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75B74AF6-287D-4113-B921-426ACF14AC65}
+	EndGlobalSection
+EndGlobal

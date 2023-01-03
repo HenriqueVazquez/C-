@@ -1,0 +1,15 @@
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\bin\Debug\net6.0\Exercicio1mod4.exe
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\bin\Debug\net6.0\Exercicio1mod4.deps.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\bin\Debug\net6.0\Exercicio1mod4.runtimeconfig.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\bin\Debug\net6.0\Exercicio1mod4.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\bin\Debug\net6.0\Exercicio1mod4.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\obj\Debug\net6.0\Exercicio1mod4.csproj.AssemblyReference.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\obj\Debug\net6.0\Exercicio1mod4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\obj\Debug\net6.0\Exercicio1mod4.AssemblyInfoInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\obj\Debug\net6.0\Exercicio1mod4.AssemblyInfo.cs
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\obj\Debug\net6.0\Exercicio1mod4.csproj.CoreCompileInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\obj\Debug\net6.0\Exercicio1mod4.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\obj\Debug\net6.0\refint\Exercicio1mod4.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\obj\Debug\net6.0\Exercicio1mod4.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\obj\Debug\net6.0\Exercicio1mod4.genruntimeconfig.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exercicio1mod4\obj\Debug\net6.0\ref\Exercicio1mod4.dll

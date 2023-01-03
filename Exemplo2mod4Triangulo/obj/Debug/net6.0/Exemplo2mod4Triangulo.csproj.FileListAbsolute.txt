@@ -1,0 +1,15 @@
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\bin\Debug\net6.0\Exemplo2mod4Triangulo.exe
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\bin\Debug\net6.0\Exemplo2mod4Triangulo.deps.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\bin\Debug\net6.0\Exemplo2mod4Triangulo.runtimeconfig.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\bin\Debug\net6.0\Exemplo2mod4Triangulo.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\bin\Debug\net6.0\Exemplo2mod4Triangulo.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\obj\Debug\net6.0\Exemplo2mod4Triangulo.csproj.AssemblyReference.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\obj\Debug\net6.0\Exemplo2mod4Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\obj\Debug\net6.0\Exemplo2mod4Triangulo.AssemblyInfoInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\obj\Debug\net6.0\Exemplo2mod4Triangulo.AssemblyInfo.cs
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\obj\Debug\net6.0\Exemplo2mod4Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\obj\Debug\net6.0\Exemplo2mod4Triangulo.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\obj\Debug\net6.0\refint\Exemplo2mod4Triangulo.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\obj\Debug\net6.0\Exemplo2mod4Triangulo.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\obj\Debug\net6.0\Exemplo2mod4Triangulo.genruntimeconfig.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\Exemplo2mod4Triangulo\obj\Debug\net6.0\ref\Exemplo2mod4Triangulo.dll

@@ -1,0 +1,15 @@
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\bin\Debug\net6.0\mais_velho.exe
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\bin\Debug\net6.0\mais_velho.deps.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\bin\Debug\net6.0\mais_velho.runtimeconfig.json
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\bin\Debug\net6.0\mais_velho.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\bin\Debug\net6.0\mais_velho.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\obj\Debug\net6.0\mais_velho.csproj.AssemblyReference.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\obj\Debug\net6.0\mais_velho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\obj\Debug\net6.0\mais_velho.AssemblyInfoInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\obj\Debug\net6.0\mais_velho.AssemblyInfo.cs
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\obj\Debug\net6.0\mais_velho.csproj.CoreCompileInputs.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\obj\Debug\net6.0\mais_velho.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\obj\Debug\net6.0\refint\mais_velho.dll
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\obj\Debug\net6.0\mais_velho.pdb
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\obj\Debug\net6.0\mais_velho.genruntimeconfig.cache
+C:\Users\HeK\Documents\udemy\c# Completo\ws\mais_velho\obj\Debug\net6.0\ref\mais_velho.dll
