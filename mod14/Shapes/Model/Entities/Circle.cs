@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 
 namespace Shapes.Model.Entities {
-    internal class Circle :  Shape {
+    internal class Circle :  AbstractShape {
         CultureInfo CI = CultureInfo.InvariantCulture;
         public double Radius { get; set; }
 

@@ -1,8 +1,7 @@
-﻿
-using Shapes.Model.Enums;
+﻿using Shapes.Model.Enums;
 
 namespace Shapes.Model.Entities {
-     abstract class Shape {
+    abstract class AbstractShape : IShape {
         public Color Color { get; set; }
 
         public abstract double Area();

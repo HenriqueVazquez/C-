@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 
 namespace Shapes.Model.Entities {
-    internal class Rectangle : Shape {
+    internal class Rectangle : AbstractShape {
         CultureInfo CI = CultureInfo.InvariantCulture;
         public double Width { get; set; }
         public double Height { get; set; }
